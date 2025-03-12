@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Crw-nd, also known as Damian.
-- 👀 I’m interested in virtual reality and game design
+- 👀 I’m interested in XR technology and game development
 - 🌱 I’m currently learning unity and C# programming language
 - 💞️ I’m looking to collaborate on Game Jams
 - 📫 How to reach me: Email (d.lau24201@gmail.com)
